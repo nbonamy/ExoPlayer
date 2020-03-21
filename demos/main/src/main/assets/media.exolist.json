@@ -1,5 +1,35 @@
 [
   {
+    "name": "Mediastation",
+    "samples": [
+      {
+        "name": "Batman (1080p, DTS)",
+        "uri": "http://192.168.1.2:5000/download/file/c5bbd25b-4879-57ed-9a29-032c2611e37c/default/M3$Z0$20138$20139$20140/Batman%20-%20The%20Dark%20Knight%20Rises.mkv",
+        "extension": "mkv"
+      },
+      {
+        "name": "Avengers (4K, TrueHD)",
+        "uri": "http://192.168.1.2:5000/download/file/c5bbd25b-4879-57ed-9a29-032c2611e37c/default/M3$Z0$20138$20192$20199/Avengers%20Infinity%20War.mkv",
+        "extension": "mkv"
+      },
+      {
+        "name": "Toy Story (4K, TrueHD, EAC)",
+        "uri": "http://192.168.1.2:5000/download/file/c5bbd25b-4879-57ed-9a29-032c2611e37c/default/M3$Z0$20138$20149$61100/Toy%20Story%204.mkv",
+        "extension": "mkv"
+      },
+      {
+        "name": "Interstellar (4K, DTS-HD MA)",
+        "uri": "http://192.168.1.2:5000/download/file/c5bbd25b-4879-57ed-9a29-032c2611e37c/default/M3$Z0$20004$20040/Interstellar.mkv",
+        "extension": "mkv"
+      },
+      {
+        "name": "Inception (4K, DTS-HD MA)",
+        "uri": "http://192.168.1.2:5000/download/file/c5bbd25b-4879-57ed-9a29-032c2611e37c/default/M3$Z0$20002/Inception.mkv",
+        "extension": "mkv"
+      }
+    ]
+  },
+  {
     "name": "YouTube DASH",
     "samples": [
       {

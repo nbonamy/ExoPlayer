@@ -401,8 +401,8 @@ public class PlayerActivity extends AppCompatActivity
         return;
       }
 
-      boolean preferExtensionDecoders =
-          intent.getBooleanExtra(PREFER_EXTENSION_DECODERS_EXTRA, false);
+      boolean preferExtensionDecoders =true;
+          //intent.getBooleanExtra(PREFER_EXTENSION_DECODERS_EXTRA, false);
       RenderersFactory renderersFactory =
           ((DemoApplication) getApplication()).buildRenderersFactory(preferExtensionDecoders);
 
